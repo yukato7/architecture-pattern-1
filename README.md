@@ -1,2 +1,4 @@
-# omise-api
-Repository for omise-go API
+# architecture-pattern1-api
+クリーンアーキテクチャの設計練習で作成。
+APIとしては、ユーザ作成と、ユーザ情報取得、omiseAPIを使用した送金する機能を実装。
+ロガー、エラーハンドリグ、ミドルウェアの実装はしていない
